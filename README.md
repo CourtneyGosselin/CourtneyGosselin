@@ -4,12 +4,6 @@
   <img src="https://user-images.githubusercontent.com/37649170/117605447-8e4bfa80-b10c-11eb-94c3-9bfba2dbc6dc.png"/>
 </a>
 </div>
-<div align="center">
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${CourtneyGosselin}${CourtneyGosselin})
-  
-</div>
-
   <div align="center" >
     <a href="https://gitlab.com/CourtneyGosselin">
       <img src="https://user-images.githubusercontent.com/37649170/117609449-e71f9100-b114-11eb-9ad7-45c8a4668a6f.png"/>
@@ -30,6 +24,8 @@
 ### About
 
 Hello! I'm Courtney Gosselin, a Software Developer and Artist. I am located in the Greater Vancouver Area. I’m a recent graduate from UBC where I obtained Bachelor of Science, majoring in Computer Science and minoring in Data Science. My greatest interested are in computer science, healthcare, and art. In 2016 graduated from Okanagan College from the Therapist Assistant diploma program. This is where I further sparked my love for healthcare but also became very interested in prosthetics and wanting to take my coding skills from hobby to career. All of these interest have made a substantial impact on my life and I look forward to where they take me in the future.
+
+<a href="https://www.buymeacoffee.com/courtneygosselin" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
  
 ### Languages, Libraries, and Frameworks
