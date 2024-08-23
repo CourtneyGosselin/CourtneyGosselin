@@ -23,7 +23,7 @@
   
 ### About
 
-Hello! I'm Courtney Gosselin, a Software Developer and Artist. I am located in the Greater Vancouver Area. I’m a recent graduate from UBC where I obtained Bachelor of Science, majoring in Computer Science and minoring in Data Science. My greatest interested are in computer science, healthcare, and art. In 2016 graduated from Okanagan College from the Therapist Assistant diploma program. This is where I further sparked my love for healthcare but also became very interested in prosthetics and wanting to take my coding skills from hobby to career. All of these interest have made a substantial impact on my life and I look forward to where they take me in the future.
+Hello! I'm Courtney Gosselin, a Software Developer and Designer. I am located in the Greater Vancouver Area. I’m a graduate from UBC where I obtained Bachelor of Science, majoring in Computer Science and minoring in Data Science. My greatest interested are in computer science, healthcare, and design. When I was a Therapist Assistant it sparked my love for healthcare but also became very interested in prosthetics and wanting to take my programming from hobby to career. All of these interest have made a substantial impact on my life and I look forward to where they take me in the future.
 
 <a href="https://www.buymeacoffee.com/courtneygosselin" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
